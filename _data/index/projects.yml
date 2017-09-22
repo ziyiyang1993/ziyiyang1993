@@ -23,6 +23,6 @@
 - name: 188-DrawingBoard
   i18n: 188DrawingBoard
   gh_user: ziyiyang1993
-  repo: 188darwingboard
+  repo: 188-drawingboard
   img: /static/assets/img/landing/darwingbloard.png
   desc: This project is other's project. I use another request to get repo's information.
