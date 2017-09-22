@@ -22,7 +22,7 @@
 #   desc: This is another project.
 - name: 188-DrawingBoard
   i18n: 188DrawingBoard
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+  gh_user: ziyiyang1993
+  repo: 188darwingboard
+  img: /static/assets/img/landing/darwingbloard.png
   desc: This project is other's project. I use another request to get repo's information.
