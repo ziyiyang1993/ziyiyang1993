@@ -5,9 +5,39 @@
     <description>Ziyiyang's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Sep 2017 11:51:12 +0800</pubDate>
-    <lastBuildDate>Fri, 22 Sep 2017 11:51:12 +0800</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2017 12:30:46 +0800</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2017 12:30:46 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>188-DrawingBoard is out!</title>
+        <description>&lt;h1 id=&quot;icon&quot;&gt;Icon&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/static/assets/img/blog/drawingboard/icon.png&quot; width=&quot;8%&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/assets/img/blog/drawingboard/2017-09-22 12_18_33.gif&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;descrption&quot;&gt;Descrption&lt;/h1&gt;
+
+&lt;p&gt;This is drawingBoard for iOS. You can drawing in this app and share the pictures to your frineds on iPhone or iPad.&lt;/p&gt;
+
+&lt;h1 id=&quot;support&quot;&gt;Support&lt;/h1&gt;
+
+&lt;p&gt;email: ziyiyang1993@gmail.com&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/html/2017/09/20/1-drawing-board-support.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/09/20/1-drawing-board-support.html</guid>
+        
+        <category>DrawingBoard</category>
+        
+        <category>188</category>
+        
+        
+        <category>HTML</category>
+        
+      </item>
     
       <item>
         <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
