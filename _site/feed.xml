@@ -3,10 +3,10 @@
   <channel>
     <title>ziyiyang</title>
     <description>Ziyiyang's blog,use Jekyll and github pages.</description>
-    <link>https://ziyiyang1993.github.io/</link>
-    <atom:link href="https://ziyiyang1993.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Oct 2017 17:31:27 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2017 17:31:27 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Oct 2017 17:38:39 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 17:38:39 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;!-- # Screenshots --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/static/assets/img/blog/drawingboard/2017-09-22 12_18_33.gif&quot; width=&quot;24%&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/static/assets/img/blog/timemanagement/iPhone-02.png&quot; width=&quot;30%&quot; /&gt;
 &lt;!-- &lt;img src=&quot;/static/assets/img/blog/sketchhelp/s-2.jpg&quot; width=&quot;24%&quot;&gt; --&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;descrption&quot;&gt;Descrption&lt;/h1&gt;
@@ -33,10 +33,10 @@
 &lt;p&gt;email: ziyiyang1993@gmail.com&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Oct 2017 00:00:00 +0800</pubDate>
-        <link>https://ziyiyang1993.github.io/html/2017/10/22/1-timemanagement-support.html</link>
-        <guid isPermaLink="true">https://ziyiyang1993.github.io/html/2017/10/22/1-timemanagement-support.html</guid>
+        <link>http://localhost:4000/html/2017/10/22/1-timemanagement-support.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/10/22/1-timemanagement-support.html</guid>
         
-        <category>DrawingBoard</category>
+        <category>TimeManagement</category>
         
         <category>188</category>
         
@@ -64,8 +64,8 @@
 &lt;p&gt;email: ziyiyang1993@gmail.com&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
-        <link>https://ziyiyang1993.github.io/html/2017/09/20/1-drawing-board-support.html</link>
-        <guid isPermaLink="true">https://ziyiyang1993.github.io/html/2017/09/20/1-drawing-board-support.html</guid>
+        <link>http://localhost:4000/html/2017/09/20/1-drawing-board-support.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/09/20/1-drawing-board-support.html</guid>
         
         <category>DrawingBoard</category>
         

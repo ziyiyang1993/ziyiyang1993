@@ -5,7 +5,7 @@ date:   2017-10-22
 desc: "188-TimeMangement is comming"
 keywords: "188,time,management,task,support"
 categories: [HTML]
-tags: [DrawingBoard,188]
+tags: [TimeManagement,188]
 icon: icon-html
 ---
 
@@ -15,7 +15,7 @@ icon: icon-html
 
 <!-- # Screenshots -->
 
-<img src="{{ site.img_path }}/drawingboard/2017-09-22 12_18_33.gif" width="24%">
+<img src="{{ site.img_path }}/timemanagement/iPhone-02.png" width="30%">
 <!-- <img src="{{ site.img_path }}/sketchhelp/s-2.jpg" width="24%"> -->
 
 
