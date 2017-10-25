@@ -5,9 +5,45 @@
     <description>Ziyiyang's blog,use Jekyll and github pages.</description>
     <link>https://ziyiyang1993.github.io/</link>
     <atom:link href="https://ziyiyang1993.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2017 11:50:17 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2017 11:50:17 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2017 17:31:27 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 17:31:27 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>188-TimeManagement Support Page</title>
+        <description>&lt;!-- # Icon
+&lt;img src=&quot;/static/assets/img/blog/sketchhelp/mylogo.png&quot; width=&quot;8%&quot;&gt; --&gt;
+
+&lt;!-- # Screenshots --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/assets/img/blog/drawingboard/2017-09-22 12_18_33.gif&quot; width=&quot;24%&quot; /&gt;
+&lt;!-- &lt;img src=&quot;/static/assets/img/blog/sketchhelp/s-2.jpg&quot; width=&quot;24%&quot;&gt; --&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;descrption&quot;&gt;Descrption&lt;/h1&gt;
+
+&lt;p&gt;Four quadrant time management&lt;/p&gt;
+
+&lt;p&gt;A person’s life is very limited time, how to make these limited time to play a more effective role, it involves a time of planning and management issues. Time 
+“four quadrant” method is a time management tool. He divided the work according to two important levels of importance and urgency, basically divided into four “quadrants”.&lt;/p&gt;
+
+&lt;p&gt;Any Question with the app you can email me with support.&lt;/p&gt;
+
+&lt;h1 id=&quot;support&quot;&gt;Support&lt;/h1&gt;
+
+&lt;p&gt;email: ziyiyang1993@gmail.com&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0800</pubDate>
+        <link>https://ziyiyang1993.github.io/html/2017/10/22/1-timemanagement-support.html</link>
+        <guid isPermaLink="true">https://ziyiyang1993.github.io/html/2017/10/22/1-timemanagement-support.html</guid>
+        
+        <category>DrawingBoard</category>
+        
+        <category>188</category>
+        
+        
+        <category>HTML</category>
+        
+      </item>
     
       <item>
         <title>188-DrawingBoard Support Page</title>
