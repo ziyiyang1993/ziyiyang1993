@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "188-TimeManagement Support Page"
+title:  "188FourQuadrantManagement Support Page"
 date:   2017-10-22
-desc: "188-TimeMangement is comming"
+desc: "188FourQuadrantManagement is comming"
 keywords: "188,time,management,task,support"
 categories: [HTML]
 tags: [TimeManagement,188]
